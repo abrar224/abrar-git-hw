@@ -1,0 +1,5 @@
+
+char * abrar()
+{
+    return "abrar";
+}  
